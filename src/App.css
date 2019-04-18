@@ -1,0 +1,28 @@
+.App {
+  height: 100%;
+}
+
+header {
+  background-color: #DDDDDD;
+  padding: 20px;
+  height: 25%;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  height: 75%;
+  padding: 15px;
+}
+
+.main__form {
+  flex: 5;
+  padding: 4px;
+}
+
+.main__summary {
+  flex: 2;
+  box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);
+  margin: 2px;
+  padding: 2px;
+}
