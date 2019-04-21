@@ -40,3 +40,11 @@
     flex: 1;
     color: red;
   }
+
+
+  .main__summary {
+    flex: 2;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);
+    margin: 2px;
+    padding: 2px;
+  }
