@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Feature.css';
+import List from './List';
 
 class Feature extends Component{
     render() {
