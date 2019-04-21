@@ -23,21 +23,15 @@ class Feature extends Component{
               { options }
             </ul>
           </div>
+          <div>
+            <List />
+          </div>
         
        })
        
-          return ( 
-              <div className="list-returned">
-           <section className="main__form">
-           <h3>TECH SPECS AND CUSTOMIZATIONS</h3>
-           { features }
-            </section>
-          
-         
-          </div>
-          
-        )};  
+      };  
        }
        
 
           export default Feature;
+
