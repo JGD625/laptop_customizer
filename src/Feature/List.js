@@ -9,8 +9,6 @@ return (
  <h3>TECH SPECS AND CUSTOMIZATIONS</h3>
  { features }
   </section>
-
-
 </div>
 
 )

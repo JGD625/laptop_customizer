@@ -1,6 +1,4 @@
-.feature__list {
-    list-style: none;
-  }
+
   
   .feature__option:not(.feature__selected) {
     cursor: pointer;
